@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 [![Build Status](https://travis-ci.org/hafdissae/stringCalcWeb.svg?branch=master)](https://travis-ci.org/hafdissae/stringCalcWeb)
 >>>>>>> 39ed9d2e758ca0d4b0ecd022d76c0a7041a17f3b
 
